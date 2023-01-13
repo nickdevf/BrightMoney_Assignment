@@ -1,0 +1,28 @@
+.navbar
+{
+    background-color: black;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.navbar ul
+{
+    list-style-type: none;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+}
+
+.navbar ul a
+{
+    font-size: larger;
+    font-weight: 700;
+    text-decoration: none;
+    color: whitesmoke;
+}
+.logo{
+    width: 163px;
+    height: 38px;
+}
